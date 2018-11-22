@@ -1,0 +1,5 @@
+- [ ] python的安装
+- [ ] pycharm的安装和配置
+- [ ] python的语法格式是什么?
+- [ ] python中变量的命名规则?
+- [ ] python中基本的数据结构有哪些?
