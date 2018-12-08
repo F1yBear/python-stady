@@ -1,4 +1,4 @@
-#!/usr/bin/python3 coding=utf-8
+#!/usr/bin/python3
 
 
 def is_leap_year(year):
